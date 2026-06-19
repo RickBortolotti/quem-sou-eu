@@ -1,0 +1,18 @@
+{
+  "name": "Quem Sou Eu?",
+  "short_name": "Quem Sou Eu?",
+  "description": "Jogo de adivinhação para jogar com amigos.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E0B1A",
+  "theme_color": "#0E0B1A",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
